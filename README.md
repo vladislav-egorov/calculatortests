@@ -1,1 +1,1 @@
-Divine  calculator with tests on JUnit.
+Divide  calculator with tests on JUnit.
